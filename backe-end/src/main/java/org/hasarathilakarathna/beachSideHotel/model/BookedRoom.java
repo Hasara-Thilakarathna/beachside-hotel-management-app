@@ -1,4 +1,4 @@
 package org.hasarathilakarathna.beachSideHotel.model;
 
-public class Room {
+public class BookedRoom {
 }
